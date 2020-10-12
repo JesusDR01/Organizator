@@ -1,0 +1,4 @@
+1-pip install pyinstaller
+2-https://pypi.org/project/auto-py-to-exe/ -> ejecutar  auto-py-to-exe en el directorio del codigo fuente (cmd)
+3-Se genera el ejecutable
+4-Con NSIS haces el instalador metiendo el ejecutable en un ZIP
